@@ -166,3 +166,4 @@
 - Pizza Tower (скорость и game feel)
 - Silent Hill 4 (атмосфера и механика путешествия по разным мирам)
 - The Binding of Isaac (использование предметов, билды)
+- How Fish is Made (атмосфера и визуал)

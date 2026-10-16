@@ -1,5 +1,3 @@
-.PHONY: build clean
-
 build:
 	mkdir -p build/
 	pandoc src/gcd.md \
@@ -10,3 +8,5 @@ build:
 
 clean:
 	rm -rf build/
+
+.PHONY: build clean

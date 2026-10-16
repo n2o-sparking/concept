@@ -1,7 +1,7 @@
 title: "tagomago"
 subtitle: "Концепт-документ"
 author: "Tomorrow GD"
-date: "v0.01 - \\today"
+date: "\\today"
 
 documentclass: report
 lang: ru

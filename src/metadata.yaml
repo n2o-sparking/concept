@@ -1,0 +1,28 @@
+title: "tagomago"
+subtitle: "Game Design Document"
+author: "Tomorrow GD"
+date: "v0.01 - \\today"
+
+documentclass: report
+lang: ru
+
+mainfont: "DejaVu Serif"
+monofont: "Liberation Mono"
+fontsize: 11pt
+geometry:
+  - margin=1in
+  - letterpaper
+
+# top-level-division: chapter
+numbersections: true
+toc: true
+toc-depth: 1
+toc-title: "Содержание"
+
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+highlight-style: tango
+
+from: markdown+pipe_tables+footnotes+smart
+standalone: true
